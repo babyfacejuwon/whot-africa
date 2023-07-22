@@ -284,6 +284,7 @@ const Home = () => {
                             <h1>
                                 Testing git push
                             </h1>
+                            <p>New change</p>
                         </div>
                     </div>
                 </div>
