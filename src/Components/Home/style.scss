@@ -1,0 +1,83 @@
+        // Section one Css //
+    .section-one{
+    background-image: url("https://res.cloudinary.com/dglwvpea5/image/upload/v1689658743/Background_1_ad7mwe.png");
+    min-height: 90vh;
+    background-size: cover;
+
+    .sec-one-items{
+        display: flex;
+        align-items: center;
+        margin-bottom: 0px;
+    }
+    
+    img{
+        margin-top: 30px;
+    }
+
+}
+
+        // Section Two Css //
+.section-two{
+    background-image: url("https://res.cloudinary.com/dglwvpea5/image/upload/v1689797260/Background_2_abwwfr.png");
+    min-height: 90vh;
+    background-size: cover;
+    padding: 4rem;
+
+    .card-css{
+        display: flex;
+       justify-content: space-between;
+    }
+   .card{
+    background: none;
+    color: white;
+    border: none;
+   }
+}
+
+        // Section-three //
+.section-three{
+    background-image: url("https://res.cloudinary.com/dglwvpea5/image/upload/v1689813347/Background_3_qccjas.png");
+    min-height: 80vh;
+    background-size: cover;
+    padding: 4rem;
+}
+
+        // Section-four Css //
+.section-four{
+    background-image: url("https://res.cloudinary.com/dglwvpea5/image/upload/v1689948072/Background_4_q6gtzv.png");
+    min-height: 90vh;
+    background-size: cover;
+    padding: 5% 0;
+    img{
+        width: 500px;
+        height: 500px;
+    }  
+    .faqs-accordion{
+        width: 544px;
+    }
+}
+
+        // Section-five Css //
+.section-five{
+    background-image: url("https://res.cloudinary.com/dglwvpea5/image/upload/v1690025194/Background_5_cdtjud.png");
+    height: 90vh;
+    background-size: cover;
+    padding: 4rem;
+
+    .contact-us-div{
+        display: flex;
+        width: 100%;
+    }
+    .sec-five-text{
+        width: 50%;
+    }
+    .message-input{
+        height: 35vh;
+    }
+    .input-div{
+        width: 50%;
+    }
+    .textarea{
+        vertical-align: text-top;
+    }
+}        
