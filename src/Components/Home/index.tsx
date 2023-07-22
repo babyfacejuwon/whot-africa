@@ -281,6 +281,9 @@ const Home = () => {
                             <div className="message-input input-group flex-nowrap">
                             <input type="textarea" className="form-control" placeholder="Type your message..." aria-label="Username" aria-describedby="addon-wrapping"/>
                             </div>
+                            <h1>
+                                Testing git push
+                            </h1>
                         </div>
                     </div>
                 </div>
